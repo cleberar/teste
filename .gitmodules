@@ -1,0 +1,3 @@
+[submodule "release"]
+	path = release
+	url = git@github.com:cleberar/git-release.git
